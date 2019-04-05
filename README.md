@@ -1,12 +1,18 @@
 # Payment Example App
 
-These is an example app to do VTEX inStore payment applinking integration.
+This is an example app to help VTEX inStore and payment apps linking integration.
 
-See in details the code of:
+# Linking to this app
+
+This app represents the "payment app" side, if you need to test this app being call, check https://github.com/vtex/instore-applinking-payment-test.
+
+# How it works
+
+Pay attention to the details of:
 
 1. [app/src/main/java/com/example/guilhermebruzzi/paymentexampleapp/MainActivity.java](app/src/main/java/com/example/guilhermebruzzi/paymentexampleapp/MainActivity.java)
 2. [app/src/main/AndroidManifest.xml](app/src/main/AndroidManifest.xml)
 
 See also the original docs:
 
-https://github.com/vtex/vtex-payment-test/blob/master/docs
+http://instore.vtex.com/applinking
